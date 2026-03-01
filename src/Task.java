@@ -12,7 +12,7 @@ Output: "<word>: <occurences>" on STDOUT for Top 10 words
 
 public class Task {
 
-    public static void main(String[] args) {
-        System.out.println("Nothing special");
-    }
+     public static void main(String[] args) {
+          System.out.println("Nothing special");
+     }
 }
