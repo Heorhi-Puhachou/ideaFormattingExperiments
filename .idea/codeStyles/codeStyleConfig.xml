@@ -1,13 +1,5 @@
 <component name="ProjectCodeStyleConfiguration">
   <state>
     <option name="USE_PER_PROJECT_SETTINGS" value="true" />
-    <code_scheme name="Project" version="173">
-      <GroovyCodeStyleSettings>
-        <option name="RIGHT_MARGIN" value="80" />
-        <option name="INDENT_SIZE" value="2" />
-        <option name="TAB_SIZE" value="2" />
-        <option name="USE_TAB_CHARACTER" value="false" />
-      </GroovyCodeStyleSettings>
-    </code_scheme>
   </state>
 </component>
